@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bottom Stack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-11 15:13+0000\n"
+"PO-Revision-Date: 2018-06-11 15:22+0000\n"
+"Last-Translator: Unreal][ <jklir@volny.cz>\n"
+"Language-Team: Čeština\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wp-bottom-stack.php:122
+msgid "<strong>CSS</strong> can be added to customize the look"
+msgstr "<strong>CSS</strong> může být přidáno pro vylepšení vzhledu"
+
+#: wp-bottom-stack.php:120
+msgid "<strong>HTML</strong> is allowed"
+msgstr "<strong>HTML</strong> je povoleno"
+
+#: wp-bottom-stack.php:121
+msgid "<strong>PHP Code</strong> MUST be enclosed in &lt;?php and ?&gt; tags"
+msgstr "<strong>PHP kód</strong> MUSÍ být uzavřen mezi tagy &lt;?php a ?&gt;"
+
+#. Description of the plugin
+msgid ""
+"Add a custom HTML and PHP content to the bottom of posts or static pages for "
+"signature or banner."
+msgstr ""
+"Přidá vlastní HTML a PHP obsah na konec příspěvku nebo statické stránky pro "
+"podpis nebo banner."
+
+#: wp-bottom-stack.php:110
+msgid "blog post"
+msgstr "příspěvku"
+
+#. Name of the plugin
+msgid "Bottom Stack"
+msgstr "Bottom Stack"
+
+#: wp-bottom-stack.php:52
+msgid "Bottom Stack Options"
+msgstr "Bottom Stack Nastavení"
+
+#: wp-bottom-stack.php:90
+msgid "Data Stacks"
+msgstr "Datové zásobníky"
+
+#: wp-bottom-stack.php:103
+msgid "Display stack automatically at the bottom of each"
+msgstr "Zobrazit zásobník automaticky na konci každé"
+
+#: wp-bottom-stack.php:85
+msgid "For information, updates and donation, please visit:"
+msgstr "Pro informace, aktualizace a dary prosím navštivte:"
+
+#. Author URI of the plugin
+msgid "https://www.jklir.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.jklir.net/wordpress-bottom-stack-plugin.html"
+msgstr ""
+
+#. Author of the plugin
+msgid "JKLIR"
+msgstr ""
+
+#: wp-bottom-stack.php:68
+msgid "Security-Check failed."
+msgstr "Kontrola zabezpečení selhala."
+
+#: wp-bottom-stack.php:60
+msgid "Sorry, but you have no permissions to change settings."
+msgstr "Promiňte, ale nemáte práva pro změnu nastavení."
+
+#: wp-bottom-stack.php:98
+#, php-format
+msgid "Stack %d"
+msgstr "Zásobník %d"
+
+#: wp-bottom-stack.php:106
+msgid "static page"
+msgstr "statické stránky"
+
+#: wp-bottom-stack.php:196 wp-bottom-stack.php:198 wp-bottom-stack.php:200
+#, php-format
+msgid "This is my data stack %s."
+msgstr "Toto je můj datový zásobník %s."
+
+#: wp-bottom-stack.php:98
+#, php-format
+msgid "Trigger with %s in content or choose an option on the right"
+msgstr "Zobrazíte pomocí %s v obsahu nebo vyberte možnost vpravo"

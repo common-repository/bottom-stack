@@ -1,0 +1,96 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bottom Stack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-11 15:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wp-bottom-stack.php:122
+msgid "<strong>CSS</strong> can be added to customize the look"
+msgstr ""
+
+#: wp-bottom-stack.php:120
+msgid "<strong>HTML</strong> is allowed"
+msgstr ""
+
+#: wp-bottom-stack.php:121
+msgid "<strong>PHP Code</strong> MUST be enclosed in &lt;?php and ?&gt; tags"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add a custom HTML and PHP content to the bottom of posts or static pages for "
+"signature or banner."
+msgstr ""
+
+#: wp-bottom-stack.php:110
+msgid "blog post"
+msgstr ""
+
+#. Name of the plugin
+msgid "Bottom Stack"
+msgstr ""
+
+#: wp-bottom-stack.php:52
+msgid "Bottom Stack Options"
+msgstr ""
+
+#: wp-bottom-stack.php:90
+msgid "Data Stacks"
+msgstr ""
+
+#: wp-bottom-stack.php:103
+msgid "Display stack automatically at the bottom of each"
+msgstr ""
+
+#: wp-bottom-stack.php:85
+msgid "For information, updates and donation, please visit:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.jklir.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.jklir.net/wordpress-bottom-stack-plugin.html"
+msgstr ""
+
+#. Author of the plugin
+msgid "JKLIR"
+msgstr ""
+
+#: wp-bottom-stack.php:68
+msgid "Security-Check failed."
+msgstr ""
+
+#: wp-bottom-stack.php:60
+msgid "Sorry, but you have no permissions to change settings."
+msgstr ""
+
+#: wp-bottom-stack.php:98
+#, php-format
+msgid "Stack %d"
+msgstr ""
+
+#: wp-bottom-stack.php:106
+msgid "static page"
+msgstr ""
+
+#: wp-bottom-stack.php:196 wp-bottom-stack.php:198 wp-bottom-stack.php:200
+#, php-format
+msgid "This is my data stack %s."
+msgstr ""
+
+#: wp-bottom-stack.php:98
+#, php-format
+msgid "Trigger with %s in content or choose an option on the right"
+msgstr ""
